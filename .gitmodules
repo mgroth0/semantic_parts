@@ -1,6 +1,6 @@
 [submodule "experiments"]
 	path = experiments
-	url = ./experiments
+	url = https://github.com/mgroth0/semantic_parts_experiments
 [submodule "stroop"]
 	path = stroop
 	url = https://gitlab.pavlovia.org/mjgroth/stroop
