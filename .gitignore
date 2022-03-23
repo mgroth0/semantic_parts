@@ -115,3 +115,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 /data/
+
+
+# matt was here
+/.idea
